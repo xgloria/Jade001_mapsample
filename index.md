@@ -5,8 +5,8 @@ Here is the *journey of jade001*.
 [Click to view the Chinese Emperor's Hindustan Jades in the Forbidden City](https://xgloria.github.io/theforbiddencity_test1/)
 
 <iframe src="Jade001_SampleMap.html" height="600" width="700"></iframe>
-# Incised Text and Published Text for Jade001 #
-## Differences are noted in **blue** which are notes added in the published Imperial Poems (御製詩) ##
+## Incised Text and Published Text for Jade001 ##
+### Differences are noted in <span style="color:blue">blue *blue* text</span> which are notes added in the published Imperial Poems (御製詩) ###
 <div class="jp-Cell-outputWrapper">
 
 
