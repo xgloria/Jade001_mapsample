@@ -4,7 +4,7 @@
 The following map is the *Journey of Jade001* and below it is its' text comparison between what we refer to as 'Object Text' and the notes added in blue from the 'Published Text' in the "Imperial Poems"(御製詩). Comparing the published printed text and the inscribed text reveals that they are not identical, and the same text could be inscribed onto multiple objects from different places around the Islamic world. 
 
 
-[Click to view the Chinese Emperor's Hindustan Jades in the Forbidden City](https://xgloria.github.io/theforbiddencity_test1/)
+[Click to view the Chinese Emperor's Hindustan Jades in the Forbidden City](https://xgloria.github.io/FC_mapsample/)
 
 <iframe src="Jade001_SampleMap.html" height="600" width="700"></iframe>
 
