@@ -13,8 +13,8 @@
 
 **Gemfile:** Prepared for possible further use on other web platforms.
 
-### Notice
-#### 1. The code is written in python. 
+## Notice
+## 1. The code is written in python. 
 The [Folium](https://python-visualization.github.io/folium/) library in python provides a translational ability to write the leaflet.js from Javascript to Python.
 
 Python Tutorial [Melanie Walsh's textbook](bookhttps://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Installation.html)
@@ -29,7 +29,7 @@ The **Xinjiang marker** In [6] - In [8] provides the example of inserting four i
 
 Other markers from In[13] - In[16] provide examples of **bolded** plain text content. 
 
-#### 2. The supplement images are in .jpg form.
+## 2. The supplement images are in .jpg form.
 
 The .tiff file in the Box folder is too large to use. 
 
@@ -46,7 +46,7 @@ While **Jade001_NPMT_bottom.jpg** is the image file name, **Jade001_Images** is 
 * Store the code, image folders, and output html file in one package folder together. 
 
 
-#### 3. Before we publish the map package online, create a github repository.
+## 3. Before we publish the map package online, create a github repository.
 basic tutorials:
 https://www.youtube.com/watch?v=BA_c3bGQXlQ
 https://www.youtube.com/watch?v=LT3wU4XAzWI
