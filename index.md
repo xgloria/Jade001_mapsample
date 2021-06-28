@@ -1,12 +1,12 @@
-## Welcome to The Jade001 Map!
+## Welcome to Jade001's Webpage for the "Chinese Emeperor's Hindustan Jades Project" ##
+"The Chinese Emperor’s Hindustan Jades” integrates text analysis, mapping, and interactive image viewers to visualize eighteenth-century China’s engagement with the Islamic world and is led by Dr. Kristina Kleutghen at the Digital Humanities Workshop at Washington University in St. Louis. This site is the basis for what will combine the textual dataset group of approximately one hundred poems that the Qianlong emperor (r. 1736-1795) wrote about and ordered incised into the Islamic jades in his collection. The image/object dataset is the group of extant inscribed jades from primarily the mid-18th century - with some more approximate dates in the 17th century as well. Comparing the published printed text and the inscribed text reveals that they are not identical, and the same text could be inscribed onto multiple objects from different places around the Islamic world. 
 
-Here is the *journey of jade001*.
+The following map is the *journey of jade001* and the text comparison between text inscribed on the object and notes added in the published "Imperial Poems"(御製詩).
 
 [Click to view the Chinese Emperor's Hindustan Jades in the Forbidden City](https://xgloria.github.io/theforbiddencity_test1/)
 
 <iframe src="Jade001_SampleMap.html" height="600" width="700"></iframe>
-### Object Text and Published Text ###
-Differences are noted in blue which are the notes added in the published Imperial Poems (御製詩) 
+
 
 <div class="jp-Cell-outputWrapper">
 
