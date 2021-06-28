@@ -1,17 +1,17 @@
 # Project Kleutghen Jade001 Mapping Documentation
 
 ## Documents: 
-Code: Jade001.ipnb
+**Code:** Jade001.ipnb
 
-Image Folder: Jade001_Images
+**Image Folder:** Jade001_Images
 
-Output file: Jade001_SampleMap.html
+**Output file:** Jade001_SampleMap.html
 
-Webpage Styling: _config.yml
+**Webpage Styling:** _config.yml
 
-Web Content: index.md
+**Web Content:** index.md
 
-Gemfile: Prepared for possible further use on other web platforms.
+**Gemfile:** Prepared for possible further use on other web platforms.
 
 ### Notice
 #### 1. The code is written in python. 
@@ -21,24 +21,27 @@ Python Tutorial [Melanie Walsh's textbook](bookhttps://melaniewalsh.github.io/In
 
 Step by step documentation is embedded in the markdown of the python code. Besides the minimap and mouse position, the visualization consists of a vector layer(written in in [5]) and location markers.
 
-The size deflator def open_resize allows you to resize the images down to any size you want, so that the images fits the popup. 
+The **size deflator** def open_resize allows you to resize the images down to any size you want, so that the images fits the popup. 
 
-The Hetian marker In [9]- In [11] provides a basic example of inserting one image (Tianshannanlu_6_Hetian.jpg) to the popup of the marker. 
+The **Hetian marker** In [9]- In [11] provides a basic example of inserting one image (Tianshannanlu_6_Hetian.jpg) to the popup of the marker. 
 
-The Xinjiang marker In [6] - In [8] provides the example of inserting four images with basic introduction to a popup.
+The **Xinjiang marker** In [6] - In [8] provides the example of inserting four images with basic introduction to a popup.
 
 Other markers from In[13] - In[16] provide examples of **bolded** plain text content. 
 
 #### 2. The supplement images are in .jpg form.
 
-The .tiff file in the Box folder is too large to use. Also, please pay attention to the size of the .jpg file, especially the historical map from the Xiyutuzhi, after the size conversion. Using a deflator at 2.5 works in the individual Hetian marker, but not for the Xinjiang marker(four images). So consider resizing them down or download smaller images from the Harvard mirador link.
+The .tiff file in the Box folder is too large to use. 
 
-In order to manage the code with images easily, the images should better be put in the same folder as the code. Ideally as the folder Jade001_Images. The resized images will be generated in the same image folder as well (e.g. Jade001_NPMT_bottom.jpgxx). 
+Also, please pay attention to the size of the .jpg file, especially the historical map from the Xiyutuzhi, after the size conversion. Using a deflator at 2.5 works in the individual Hetian marker, but not for the Xinjiang marker(four images). So consider resizing them down or download smaller images from the Harvard mirador link.
+
+In order to manage the code with images easily, the images should better be put in the same folder as the code. Ideally, as the folder Jade001_Images. The resized images will be generated in the same image folder as well (e.g. Jade001_NPMT_bottom.jpgxx). 
 
 *Pay attention to the route of the image document in the code*
 
 >ppp2 = open_resize('Jade001_Images/Jade001_NPMT_bottom.jpg',3.5)
-While **Jade001_NPMT_bottom.jpg** is the image file namte, **Jade001_Images** is the folder that holds it.
+
+While **Jade001_NPMT_bottom.jpg** is the image file name, **Jade001_Images** is the folder that holds it.
 
 * Store the code, image folders, and output html file in one package folder together. 
 
