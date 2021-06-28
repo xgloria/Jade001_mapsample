@@ -81,15 +81,15 @@ Finally, push all the files to your github repository.
 
 -------
  
-When you find the folders in the repository, open the index.md file. 
+When you find the folders in the github repository, open the index.md file. 
 put the html file name in the iframe src, set the height and width as demanded. 
 ><iframe src="Jade001_SampleMap.html" height="500" width="600"></iframe>
  
  
 go to the Settings of the Repository
 
-roll down to Github Pages->Source->in Branch, select main branch(this may change upon need) "main/roots", and the link for the Github pages will appear on the screen 
+roll down to Github Pages->Source->in Branch, select main branch(this may change upon need) "main/roots", and the link for the Github pages will appear on the screen. 
  
 **Further notices**
 
-In -_config.yml, you can put theme, title, description, logo, etc. in. You can even insert a map there(idk why to do so, but you see, it’s quite versatile...) And for the logo, pay attention to the route again. 
+In -_config.yml, you can put theme, title, description, logo, etc. in. You can even insert a map there(idk why to do so, but you see, it’s quite versatile...) And for the logo, pay attention to it route.
