@@ -35,7 +35,7 @@ Differences are noted in blue which are the notes added in the published Imperia
     span.parenthesis {color: #324ea8;
                     font-size: 100%;
                     margin: 0 3px;}
-        </style><font size="150">玉椀來回部, 輸誠供闔閶, 召公懷不寶, 韓子戒無當,異致白毛鹿, 引恬頳尾魴</font><span class="parenthesis">(回部葉爾奇木哈什哈爾初役屬於準噶爾,為所拘縶,因我大軍戡定伊犁,始釋之令歸所部,其長伯克和卓遣使求內屬,此其所貢也)</span>, 勞徠非力并, 天眷奉昭彰.</p>
+        </style><font size="50">玉椀來回部, 輸誠供闔閶, 召公懷不寶, 韓子戒無當,異致白毛鹿, 引恬頳尾魴</font><span class="parenthesis">(回部葉爾奇木哈什哈爾初役屬於準噶爾,為所拘縶,因我大軍戡定伊犁,始釋之令歸所部,其長伯克和卓遣使求內屬,此其所貢也)</span>, 勞徠非力并, 天眷奉昭彰.</p>
 
 </div>
 
