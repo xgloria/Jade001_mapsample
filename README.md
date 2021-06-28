@@ -89,4 +89,4 @@ roll down to Github Pages->Source->in Branch, select main branch(this may change
  
 **Further notices**
 
-In -_config.yml, you can put theme, title, description, logo, etc. in. You can even insert a map there(idk why to do so, but it’s quite versatile...) And for the logo, pay attention to the route again. 
+In -_config.yml, you can put theme, title, description, logo, etc. in. You can even insert a map there(idk why to do so, but you see, it’s quite versatile...) And for the logo, pay attention to the route again. 
