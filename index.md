@@ -7,6 +7,7 @@ Here is the *journey of jade001*.
 <iframe src="Jade001_SampleMap.html" height="600" width="700"></iframe>
 ### Object Text and Published Text ###
 Differences are noted in blue which are the notes added in the published Imperial Poems (御製詩) 
+
 <div class="jp-Cell-outputWrapper">
 
 
