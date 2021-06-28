@@ -54,7 +54,7 @@ _config.yml controls the left area of the minimal style website,
 
 and index.md controls the content, which is the right area of the minimal style website. 
  
-** After that, we can start to commit and push the package folder from our computer. **
+**After that, we can start to commit and push the package folder from our computer.**
  
 Method:use RStudio and Git for desktop (& Github desktop works in the same mechanism).
 
@@ -62,7 +62,7 @@ follow this tutorial step by step: https://www.youtube.com/watch?v=liMd1L8KDpc
 
 download link for RStudio:  https://rstudio.com/products/rstudio/download/
 
-** On your local computer: **
+**On your local computer:**
  
 In RStudio, create a new project, choose the third option **Git**.
 
@@ -87,6 +87,6 @@ go to the Settings of the Repository
 
 roll down to Github Pages->Source->in Branch, select main branch(this may change upon need) "main/roots", and the link for the Github pages will appear on the screen 
  
-** Further notices **
+**Further notices**
 
 In -_config.yml, you can put theme, title, description, logo, etc. in. You can even insert a map there(idk why to do so, but it’s quite versatile...) And for the logo, pay attention to the route again. 
