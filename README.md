@@ -46,7 +46,9 @@ While **Jade001_NPMT_bottom.jpg** is the image file name, **Jade001_Images** is 
 * Store the code, image folders, and output html file in one package folder together. 
 
 
-## 3. Before we publish the map package online, create a github repository.
+## 3. Publish the Map Online
+
+Before we publish the map package online, create a github repository.
 basic tutorials:
 https://www.youtube.com/watch?v=BA_c3bGQXlQ
 https://www.youtube.com/watch?v=LT3wU4XAzWI
