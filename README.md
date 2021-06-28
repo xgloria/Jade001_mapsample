@@ -83,7 +83,7 @@ Finally, push all the files to your github repository.
  
 When you find the folders in the repository, open the index.md file. 
 put the html file name in the iframe src, set the height and width as demanded. 
-<iframe src="Jade001_SampleMap.html" height="500" width="600"></iframe>
+><iframe src="Jade001_SampleMap.html" height="500" width="600"></iframe>
  
  
 go to the Settings of the Repository
