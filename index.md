@@ -11,8 +11,7 @@ The following map is the *Journey of Jade001* and below it is its' text comparis
 
 <!-- Tab content -->
 <div id="Jades in the Forbidden City" class="tabcontent">
-    <h3>Jades in the Forbidden City</h3>
-    <p>Which jade is your favorite?</p>
+    <[Click to view the Chinese Emperor's Hindustan Jades in the Forbidden City](https://xgloria.github.io/theforbiddencity_test1/)</h3>
 </div>
 
 [Click to view the Chinese Emperor's Hindustan Jades in the Forbidden City](https://xgloria.github.io/theforbiddencity_test1/)
