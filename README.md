@@ -43,7 +43,7 @@ In order to manage the code with images easily, the images should better be put 
 
 While **Jade001_NPMT_bottom.jpg** is the image file name, **Jade001_Images** is the folder that holds it.
 
-* Store the code, image folders, and output html file in one package folder together. 
+*Store the code, image folders, and output html file in one package folder together. We'll only use the html file in showing the map content. But this repository is a demonstration of the whole individual jade package.
 
 
 ## 3. Publish the Map Online
@@ -55,9 +55,7 @@ https://www.youtube.com/watch?v=LT3wU4XAzWI
 
 -In the Github Pages-->Theme Chooser, choose your favourite theme. (This page is shown in [minimal](https://github.com/pages-themes/minimal).) Then, _config.yml, and index.md will appear in your repository.
 
-_config.yml controls the left area of the minimal style website,
-
-and index.md controls the content, which is the right area of the minimal style website. 
+_config.yml controls the left area of the minimal style website, and index.md controls the content, which is the right area of the minimal style website. 
  
 **After that, we can start to commit and push the package folder from our computer.**
  
@@ -69,7 +67,7 @@ download link for RStudio:  https://rstudio.com/products/rstudio/download/
 
 **On your local computer:**
  
-In RStudio, create a new project, choose the third option **Git**.
+In RStudio, create a new project, choose the third option **Version Control -->Git**.
 
 Copy the github respository's html link and create a github pages folder on your local computer.
 
