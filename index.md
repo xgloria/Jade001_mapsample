@@ -28,7 +28,7 @@
   <div id="tabs-2">
     <p>[Check out the Chinese Emperor's Hindustan Jades in the Forbidden City](https://xgloria.github.io/FC_mapsample/)
 
-<iframe src="Jade001_SampleMap.html" height="500" width="500"></iframe>
+<iframe src="Jade001_SampleMap.html" height="600" width="700"></iframe>
 </p>
   </div>
   <div id="tabs-3">
