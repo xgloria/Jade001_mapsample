@@ -14,6 +14,12 @@
 <input type="radio" name="tabs" id="tab5" />
 <label for="tab5">tab5</label>
 
+<div class="tab content1">Tab1 Contents</div>
+<div class="tab content2">Tab2 Contents</div>
+<div class="tab content3">Tab3 Contents</div>
+<div class="tab content4">Tab4 Contents</div>
+<div class="tab content5">Tab5 Contents</div>
+
 "The Chinese Emperor’s Hindustan Jades” integrates text analysis, mapping, and interactive image viewers to visualize eighteenth-century China’s engagement with the Islamic world. This project is led by Dr. Kristina Kleutghen at the Digital Humanities Workshop at Washington University in St. Louis. The project consists of two major datasets - textual and the image/objects. The textual dataset is composed of approximately one hundred poems that the Qianlong emperor (r. 1736-1795) wrote about and ordered incised onto the Islamic jades in his collection, and published text from the Qing Dynasty as the 'Imperial Poems' 御製詩; whereas the image/object dataset is the group of extant inscribed jades from primarily the 17th-mid 18th century.
 
 The following map is the *Journey of Jade001* and below it is its' text comparison between what we refer to as 'Object Text' and the notes added in blue from the 'Published Text' in the "Imperial Poems"(御製詩). Comparing the published printed text and the inscribed text reveals that they are not identical, and the same text could be inscribed onto multiple objects from different places around the Islamic world. 
