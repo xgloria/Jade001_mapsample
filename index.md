@@ -62,10 +62,11 @@
  </div>
 
 </div>
-    </p>
   </div>
 </div>
+ </body>
+</html>
+ 
 <[Click to view the Chinese Emperor's Hindustan Jades in the Forbidden City](https://xgloria.github.io/FC_mapsample/)
 <iframe src="Jade001_SampleMap.html" height="600" width="700"></iframe>
-</body>
-</html>
+
