@@ -20,7 +20,6 @@
   <ul>
     <li><a href="#tabs-1">Project Overview</a></li>
     <li><a href="#tabs-2">Jade001 Text Comparison</a></li>
-   <li><a href="tabs-3">Other Hindustan Jades in the Forbidden City</a></li>
   </ul>
   <div id="tabs-1">
     <p> "The Chinese Emperor’s Hindustan Jades” integrates text analysis, mapping, and interactive image viewers to visualize eighteenth-century China’s engagement with the Islamic world. This project is led by Dr. Kristina Kleutghen at the Digital Humanities Workshop at Washington University in St. Louis. The project consists of two major datasets - textual and the image/objects. The textual dataset is composed of approximately one hundred poems that the Qianlong emperor (r. 1736-1795) wrote about and ordered incised onto the Islamic jades in his collection, and published text from the Qing Dynasty as the 'Imperial Poems' 御製詩; whereas the image/object dataset is the group of extant inscribed jades from primarily the 17th-mid 18th century.</p>
@@ -59,10 +58,7 @@
     </style>玉椀來回部, 輸誠供闔閶, 召公懷不寶, 韓子戒無當,異致白毛鹿, 引恬頳尾魴 <span class="parenthesis">(回部葉爾奇木哈什哈爾初役屬於準噶爾,為所拘縶,因我大軍戡定伊犁,始釋之令歸所部,其長伯克和卓遣使求內屬,此其所貢也)</span>, 勞徠非力并, 天眷奉昭彰.</p>
 
 </div>
-  <div id="tabs-3">
-   <[Click to view the Chinese Emperor's Hindustan Jades in the Forbidden City](https://xgloria.github.io/FC_mapsample/)</p>
-</div>
-
+<[Click to view the Chinese Emperor's Hindustan Jades in the Forbidden City](https://xgloria.github.io/FC_mapsample/)
 <iframe src="Jade001_SampleMap.html" height="600" width="700"></iframe>
 </body>
 </html>
