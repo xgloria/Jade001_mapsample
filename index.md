@@ -58,6 +58,13 @@
     </style>玉椀來回部, 輸誠供闔閶, 召公懷不寶, 韓子戒無當,異致白毛鹿, 引恬頳尾魴 <span class="parenthesis">(回部葉爾奇木哈什哈爾初役屬於準噶爾,為所拘縶,因我大軍戡定伊犁,始釋之令歸所部,其長伯克和卓遣使求內屬,此其所貢也)</span>, 勞徠非力并, 天眷奉昭彰.</p>
 
 </div>
+ 
+ </div>
+
+</div>
+    </p>
+  </div>
+</div>
 <[Click to view the Chinese Emperor's Hindustan Jades in the Forbidden City](https://xgloria.github.io/FC_mapsample/)
 <iframe src="Jade001_SampleMap.html" height="600" width="700"></iframe>
 </body>
