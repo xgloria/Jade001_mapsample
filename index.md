@@ -2,8 +2,8 @@
 
 Here is the *journey of jade001*.
 
-[Click to view the Chinese Emperor's Hindustan Jades in the Forbidden City](https://xgloria.github.io/theforbiddencity_test1/)
+[Click to view the Chinese Emperor's Hindustan Jades in the Forbidden City](https://thefcmapsearchsample.netlify.app/)
 
-<iframe src="Jade001_sample_webstorage.html" height="600" width="700"></iframe>
+<iframe src="Jade001_sample_webstorage.html" height="550" width="650"></iframe>
 
 
