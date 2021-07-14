@@ -23,11 +23,11 @@ Step by step documentation is embedded in the markdown of the python code. Besid
 
 The **size deflator** def open_resize allows you to resize the images down to any size you want, so that the images fits the popup. 
 
-The **Hetian marker** In [9]- In [11] provides a basic example of inserting one image (Tianshannanlu_6_Hetian.jpg) to the popup of the marker. 
+The **Hetian marker** provides a basic example of inserting one image (Tianshannanlu_6_Hetian.jpg) to the popup of the marker. 
 
-The **Xinjiang marker** In [6] - In [8] provides the example of inserting four images with basic introduction to a popup.
+The **Xinjiang marker** provides the example of inserting four images with basic introduction to a popup.
 
-Other markers from In[13] - In[16] provide examples of **bolded** plain text content. 
+Other markers from provide examples of **bolded** plain text content. 
 
 ## 2. The supplement images are in .jpg form.
 
