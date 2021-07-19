@@ -32,3 +32,7 @@ Method 4:
 width=600
 height=400
 onerror="alert('URL invalid !!');" />
+
+Method 5:
+<!-- Resources on other origins must be CORS-enabled. -->
+<link rel="import" href="https://htmltesttt.netlify.app">
