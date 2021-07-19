@@ -26,3 +26,9 @@ type="text/html">
 
 Method 3:
 <iframe src="https://htmltesttt.netlify.app" height="600" width="400"></iframe>
+
+Method 4:
+<embed src="https://htmltesttt.netlify.app"
+width=600
+height=400
+onerror="alert('URL invalid !!');" />
