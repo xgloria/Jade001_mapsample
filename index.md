@@ -4,7 +4,7 @@
 
 [Click to view the Chinese Emperor's Hindustan Jades in the Forbidden City](https://thefcmapsearchsample.netlify.app/)
 
-<iframe src="https://mapjade001.netlify.app/" height="600" width="400"></iframe>
+<iframe src="https://mapjade001.netlify.app/" height="600" width="800"></iframe>
 
 Other Methods to host html file:
 
