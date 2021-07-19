@@ -7,4 +7,3 @@ Here is the *journey of jade001*.
 <div>
       <p><a href="https://htmltesttt.netlify.app">secured link</a></p>
 </div>
-
