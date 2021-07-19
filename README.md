@@ -7,7 +7,7 @@ netlify host: https://mapjade001.netlify.app/
 --------------------------------------------------------------------------
 ## Documents: 
 **Code:** 
-Local host: Jade001.ipnb
+Original Version: Jade001.ipnb
 
 Google Colab: Local Exotic Jades Folder-->Colab Notebooks-->Mapping-->Jade001 Sample Map
 
