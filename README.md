@@ -1,7 +1,15 @@
 # Project Kleutghen Jade001 Mapping Documentation
 
+Most Updated version of the map 
+html file: mapjade001.html
+netlify host: https://mapjade001.netlify.app/  
+
+--------------------------------------------------------------------------
 ## Documents: 
-**Code:** Jade001.ipnb
+**Code:** 
+Local host: Jade001.ipnb
+
+Google Colab: Local Exotic Jades Folder-->Colab Notebooks-->Mapping-->Jade001 Sample Map
 
 **Image Folder:** Jade001_Images
 
@@ -23,13 +31,17 @@ Step by step documentation is embedded in the markdown of the python code. Besid
 
 The **size deflator** def open_resize allows you to resize the images down to any size you want, so that the images fits the popup. 
 
-The **Hetian marker** provides a basic example of inserting one image (Tianshannanlu_6_Hetian.jpg) to the popup of the marker. 
+The **Hetian marker** provides the example of inserting one image (Tianshannanlu_6_Hetian.jpg) to the popup of the marker. 
 
 The **Xinjiang marker** provides the example of inserting four images with basic introduction to a popup.
+
+The **Forbidden City Marker** provides the example of inserting a customizable plain text popup.
 
 Other markers from provide examples of **bolded** plain text content. 
 
 ## 2. The supplement images are in .jpg form.
+
+### For Local Host:
 
 The .tiff file in the Box folder is too large to use. 
 
@@ -45,6 +57,9 @@ While **Jade001_NPMT_bottom.jpg** is the image file name, **Jade001_Images** is 
 
 *Store the code, image folders, and output html file in one package folder together. We'll only use the html file in showing the map content. But this repository is a demonstration of the whole individual jade package.
 
+### For Codes in colab:
+
+The images are using the github *raw* links provided by the image folder in this repository. All the images has been processed through PhotoShop (Documentation in Local Exotic Jades folder) and resized by the code's build-in function. 
 
 ## 3. Publish the Map Online
 
@@ -83,7 +98,8 @@ Finally, push all the files to your github repository.
  
 When you find the folders in the github repository, open the index.md file. 
 put the html file name in the iframe src, set the height and width as demanded. 
-><iframe src="Jade001_SampleMap.html" height="500" width="600"></iframe>
+The example code:
+><iframe src="file name/weblink" height="500" width="600"></iframe>
  
  
 go to the Settings of the Repository
