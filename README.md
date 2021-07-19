@@ -1,6 +1,6 @@
 # Project Kleutghen Jade001 Mapping Documentation
 
-**Most Updated version of the map: html file: mapjade001.html
+**Latest version of the map: html file: mapjade001.html**
 
 netlify host: https://mapjade001.netlify.app/  
 
