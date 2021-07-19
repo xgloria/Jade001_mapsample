@@ -10,7 +10,6 @@ Here is the *journey of jade001*.
 
 <object data="https://htmltesttt.netlify.app" width="600" height="400">
     <embed src="https://htmltesttt.netlify.app" width="600" height="400"> </embed>
-    Error: Embedded data could not be displayed.
 </object>
 
 
