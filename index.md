@@ -24,4 +24,5 @@ type="text/html">
     Alternative Content
 </object>
 
-(iframe src="Jade001_SampleMap.html" height="600" width="700"></iframe)
+Method 3:
+<iframe src="https://htmltesttt.netlify.app" height="600" width="400"></iframe)
